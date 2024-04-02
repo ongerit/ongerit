@@ -2,7 +2,7 @@ Hi, I'm Thomas, an experienced Engineering Manager with a passion for traveling 
 
 When I'm not working, you can find me exploring new destinations 🌍 or planning my next adventure 🧳. I have a proven track record of delivering high-quality products 🎁 on time and within budget 💰 using agile methodologies 🤝, excellent communication 🗣️ and interpersonal skills 💬, and experience building and maintaining positive team culture 🤗. 
 
-Feel free to reach out to me at 📫 thomas@joinforma.com.
+Feel free to reach out to me at 📫 tom@thomasongeri.com
 
 <!---
 ongerit/ongerit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
